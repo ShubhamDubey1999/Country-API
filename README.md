@@ -2,8 +2,8 @@ To use any api click on the api, then dropdown will open , on the right hand sid
 After clicking the button input fields will enable to put parameters.
 
 1. Authentication API
-   Username - Admin
-   Password - Admin@123
+   { Username - Admin , 
+   Password - Admin@123 }
    Pass the username & password in api parameters,   
    if username and password is correct then , api will generate an authentication token in response , else data will be null,
    To validate the token copy the token then click on "Authorize" button a popup will show up , paste that token in the value field  (ex:-  ' bearer _token '). (Authorize button is on the top of APIs).
