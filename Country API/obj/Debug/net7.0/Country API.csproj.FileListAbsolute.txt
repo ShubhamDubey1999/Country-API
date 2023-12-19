@@ -1,0 +1,92 @@
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\appsettings.json
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Country API.exe
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Country API.deps.json
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Country API.runtimeconfig.json
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Country API.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Country API.pdb
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.csproj.AssemblyReference.cache
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.AssemblyInfoInputs.cache
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.AssemblyInfo.cs
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.csproj.CoreCompileInputs.cache
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.Country API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.build.Country API.props
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Country API.props
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Country API.props
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\scopedcss\bundle\Country API.styles.css
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.csproj.CopyComplete
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\refint\Country API.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.pdb
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\Country API.genruntimeconfig.cache
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\obj\Debug\net7.0\ref\Country API.dll
+C:\Users\Teamarcs\source\repos\FreeLance\Country API\Country API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\appsettings.Development.json
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\appsettings.json
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Country API.exe
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Country API.deps.json
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Country API.runtimeconfig.json
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Country API.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Country API.pdb
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Scrutor.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Freelance\Country API\Country API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.csproj.AssemblyReference.cache
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.AssemblyInfoInputs.cache
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.AssemblyInfo.cs
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.csproj.CoreCompileInputs.cache
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.MvcApplicationPartsAssemblyInfo.cs
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.MvcApplicationPartsAssemblyInfo.cache
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.Country API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.build.Country API.props
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Country API.props
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Country API.props
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\scopedcss\bundle\Country API.styles.css
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.csproj.CopyComplete
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.dll
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\refint\Country API.dll
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.pdb
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\Country API.genruntimeconfig.cache
+E:\Freelance\Country API\Country API\obj\Debug\net7.0\ref\Country API.dll
