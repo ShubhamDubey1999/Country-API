@@ -2,6 +2,7 @@
 -
 
 SetUp :-
+-
 Step 1 : Install the dotnet sdk via this link :- https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.404-windows-x64-installer
 
 Step 2 : Install C# extension in vs code
@@ -12,6 +13,7 @@ Step 4 : Open the terminal to build the project (command : dotnet build).
 Step 5 : Run the project ( command : dotnet run). 
 
 #API Instruction
+-
 To use any api click on the api, then dropdown will open , on the right hand side there is a button "Try it out", in every api. To use api click on the "Try it out" button.
 After clicking the button input fields will enable to put parameters.
 
