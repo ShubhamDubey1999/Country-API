@@ -5,7 +5,7 @@ After clicking the button input fields will enable to put parameters.
    { Username - Admin , 
    Password - Admin@123 }
    Pass the username & password in api parameters,   
-   if username and password is correct then , api will generate an authentication token in response , else data will be null,
+   if username and password is correct then , api will generate an authentication token in response , else data will be null and reason will be displayed in the message of respnse like "Username not found or Password is incorrect",
    To validate the token copy the token then click on "Authorize" button a popup will show up , paste that token in the value field  (ex:-  ' bearer _token '). (Authorize button is on the top of APIs).
 
 2. After the successful Authentication and Authorization , the other 2 APIs will be authorized to the authenticated user.
