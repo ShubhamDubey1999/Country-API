@@ -6,7 +6,8 @@ SetUp :-
 Step 1 : Install the dotnet sdk via this link :- https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.404-windows-x64-installer
 
 Step 2 : Install C# extension in vs code
-Step 3 : Open the Project that you have cloned from the git.
+
+Step 3 : Open the Project in vscode that you have cloned from the git.
 
 Step 4 : Open the terminal to build the project (command : dotnet build).
 
