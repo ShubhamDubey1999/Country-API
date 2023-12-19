@@ -25,7 +25,7 @@ After clicking the button input fields will enable to put parameters.
    if username and password is correct then , api will generate an authentication token in response , else data will be null and reason will be displayed in the message of respnse like "Username not found or Password is incorrect",
    To validate the token copy the token then click on "Authorize" button a popup will show up , paste that token in the value field  (ex:-  ' bearer _token '). (Authorize button is on the top of APIs).
 
-2. After the successful Authentication and Authorization , the other 2 APIs will be authorized to the authenticated user.
+2. After the successful Authentication , the other 2 APIs will be authorized to the authenticated user.
 
 3. Second is Name API ,which take parameter country name ,  it'll fetch country data on the basis of country name in the response.
 
